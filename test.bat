@@ -1,0 +1,3 @@
+compile
+echo yo
+run

@@ -1,1 +1,1 @@
-javac main.java
+javac src/*.java
